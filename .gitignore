@@ -15,7 +15,14 @@ node_modules/
 
 # Environment variables
 .env
-
+.vscode/
 # Package files
 package.json
 package-lock.json
+
+
+node_modules
+temp
+build
+dist
+.DS_Store
