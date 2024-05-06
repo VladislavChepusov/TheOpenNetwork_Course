@@ -8,7 +8,7 @@ message Deposit{
 contract Company with Deployable {
 
     balance: Int as uint256;
-
+нуну
     init() {
         self.balance = 0;   
     }
